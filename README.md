@@ -32,6 +32,3 @@ This project analyzes the relationship between inflation and household spending 
 - Increase in inflation shows a direct/indirect impact on essential spending categories  
 - Certain categories (e.g., food, housing) are more sensitive to inflation changes  
 - Household spending behavior adapts based on economic conditions  
-
-```bash
-git clone https://github.com/yourusername/inflation-vs-house-spending.git
