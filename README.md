@@ -33,9 +33,5 @@ This project analyzes the relationship between inflation and household spending 
 - Certain categories (e.g., food, housing) are more sensitive to inflation changes  
 - Household spending behavior adapts based on economic conditions  
 
-*(Update insights after your actual analysis)*
-
-## ▶️ How to Run
-1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/inflation-vs-house-spending.git
